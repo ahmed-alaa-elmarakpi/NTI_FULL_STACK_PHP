@@ -1,0 +1,23 @@
+body {
+    background-color: #12202f;
+    color: lightgray;
+}
+
+h1 {
+    text-align: left;
+    color: #b8862b;
+}
+
+table {
+    width: 100%;
+    background-color: #3b5a8c;
+}
+
+td {
+    width: 25%;
+    color: black;
+}
+
+td img {
+    width: 100%;
+}

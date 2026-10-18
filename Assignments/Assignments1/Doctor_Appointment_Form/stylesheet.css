@@ -1,0 +1,19 @@
+table {
+    width: 70%;
+    vertical-align: top
+}
+
+td img {
+    width: 100%;
+    vertical-align: top
+}
+
+h1 {
+    text-align: center;
+    border-bottom: 2px solid red;
+    padding-bottom: 20px;
+}
+
+td {
+    padding: 10px;
+}
